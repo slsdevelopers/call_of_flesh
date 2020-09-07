@@ -1,7 +1,7 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to S.T.A.L.K.E.R. Station!</h1>
+<h1>Welcome to S.T.A.L.K.E.R. 13 Station!</h1>
 
-<i>This server is running a /stalker/station build.</i>
-<i>Check out our discord server for more info: https://discord.gg/P3EMVBW</i>
-<i>After enterting discord don't forget to type !s cheeki breeki to get special stalker access!</i>
+<i>This server is running a call of flesh stalker13 build...</i>
+<i>Check out our discord server for more info: http://b.link/slsdiscord</i>
+<i>Hosted by <a href = "https://slsgaming.net">slsgaming.net</a>

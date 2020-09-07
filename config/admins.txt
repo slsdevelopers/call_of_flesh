@@ -7,14 +7,5 @@
 # NOTE: if the rank-name cannot be found in admin_ranks.txt, they will not be adminned! ~Carn #
 # NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
 ###############################################################################################
-xrenoid = Host
-narciss_f = Host
-fillcross = Host
-corporaldead = Badmin
-firefroge = Badmin
-blyeberry = Badmin
-drunktess = Moderator
-ogardtheviking = Badmin
-mileswolfe = Badmin
-vavalor = Moderator
-prospekt1559 = Moderator
+itsjusallah = Host
+davidmwindow = Host
