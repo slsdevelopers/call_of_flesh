@@ -593,12 +593,12 @@
 	w_class = 3
 	layer = 4
 	origin_tech = "biotech=6"
-	var/list/banned_mobs()
+	var/list/banned_mobs[]
 
 /obj/item/asteroid/fugu_gland/afterattack(atom/target, mob/user, proximity_flag)
 	if(proximity_flag && istype(target, /mob/living/simple_animal))
 		var/mob/living/simple_animal/A = target
-		if(A.buffed || (A.type in banned_mobs) || A.stat)
+		if(A.buffed || (A.type in src.banned_mobs) || A.stat)
 			user << "<span class='warning'>Something's interfering with the [src]'s effects. It's no use.</span>"
 			return
 		A.buffed++
