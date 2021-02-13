@@ -1,7 +1,8 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to S.T.A.L.K.E.R. 13 Station!</h1>
+<h1>Welcome to SLS STALKER13!</h1>
 
-<i>This server is running a call of flesh stalker13 build...</i>
+<i>This server is running a fork of call of flesh stalker13 build...</i>
 <i>Check out our discord server for more info: http://b.link/slsdiscord</i>
 <i>Hosted by <a href = "https://slsgaming.net">slsgaming.net</a>
+We will soon have a 24/7 server up... stay tuned!
