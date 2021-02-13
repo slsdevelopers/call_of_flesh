@@ -33,8 +33,10 @@ Admin Candidate	= +@
 Trial Admin		= +@ +SPAWN +REJUV +VAREDIT +BAN
 Badmin			= +@ +POSSESS +BUILDMODE +SERVER +FUN
 Game Admin		= +@ +STEALTH +SOUNDS +DEBUG
-Game Master		= +EVERYTHING
+Administrator	= +EVERYTHING
 
 Host			= +EVERYTHING
+Manager			= +EVERYTHING
+Director		= +EVERYTHING
 
 Coder			= +DEBUG +VAREDIT +SERVER +SPAWN +BAN +VAREDIT 
